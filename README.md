@@ -25,3 +25,4 @@ Utilisation à vos risques et périls. Easya Solutions ne fournit pas de support
 Avant toute utilisation, merci de prendre connaissance de la documentation pour vérifier si le module répond en l'état à vos besoins
 https://link.easya.solutions/woosync_doc -->
 
+Deplacer vers https://git.open-dsi.fr/dolibarr-extension/ecommerceng
